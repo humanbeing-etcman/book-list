@@ -3,7 +3,7 @@
     {
       "Book_info" : {
         "Title" : "ゲーム戦略のはなし",
-        "Sub-title" : "必勝のテクニック",
+        "Sub_title" : "必勝のテクニック",
         "Author" : ["大村　平"],
         "Publisher" : "日科技連",
         "Published" : ["2019/02/21", "2003/08/18", "1990/08/30"],
@@ -30,7 +30,7 @@
     {
       "Book_info" : {
         "Title" : "",
-        "Sub-title" : "",
+        "Sub_title" : "",
         "Author" : [""],
         "Publisher" : "",
         "Published" : [""],

@@ -1,0 +1,31 @@
+{
+  "2019" : [
+    {
+      "Book_info" : {
+        "Title" : "",
+        "Sub_title" : "",
+        "Author" : [""],
+        "Publisher" : "",
+        "Published" : [""],
+        "Library" : ["sapporo", "kitahiroshima", "ebetsu"]
+      },
+      "I_read" : {
+        "Checked" : ["yyyy/mm/dd"],
+        "Status" : ["almost !touched", "!finished", "finished"],
+        "To_read_tag" : [
+          {
+            "page" : [null],
+            "date"  : "yyyy/mm/dd"
+          }
+        ],
+        "Memo" : [
+          {
+            "page" : null,
+            "comment" : "",
+            "date"  : "yyyy/mm/dd"
+          }
+        ]
+      }
+  }
+]
+}
