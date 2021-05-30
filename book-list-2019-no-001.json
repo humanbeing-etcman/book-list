@@ -29,6 +29,33 @@
     },
     {
       "Book_info" : {
+        "Title" : "２０２５年、人は買い物をしなくなる",
+        "Sub_title" : "次の１０年を変える、デジタルシェルフの衝撃",
+        "Author" : ["望月　智之"],
+        "Publisher" : "クロスメディア・パブリッシング",
+        "Published" : ["2019/11/21"],
+        "Library" : ["ebetsu"]
+      },
+      "I_read" : {
+        "Checked" : ["2020/02/06", "2020/02/10"],
+        "Status" : ["finished"],
+        "To_read_tag" : [
+          {
+            "page" : [null],
+            "date"  : "yyyy/mm/dd"
+          }
+        ],
+        "Memo" : [
+          {
+            "page" : 137,
+            "comment" : "Amazon Echoのアレクサ、聞こえてくる音を２４ℍ分析している。盗聴ではないかと批判あり。",
+            "date"  : "2020/02/06"
+          }
+        ]
+      }
+  },
+    {
+      "Book_info" : {
         "Title" : "",
         "Sub_title" : "",
         "Author" : [""],
